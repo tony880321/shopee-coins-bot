@@ -30,7 +30,7 @@ docker run -it hyperbola/shopee-coins-bot:1 --help
 docker run -it -v /path/to/somewhere:/cookie \
     hyperbola/shopee-coins-bot:1 -u username -p password -c /cookie/mycookie
 ```
-# 本地儲存路徑要提供足夠權限
+本地儲存路徑要提供足夠權限
 
 > **Warning**
 >
